@@ -44,7 +44,6 @@ item {
     id: 9
     name: 'Sandwich'
 }
-
 item {
     id: 10
     name: 'Hot dog'
